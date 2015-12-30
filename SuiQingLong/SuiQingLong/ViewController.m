@@ -32,6 +32,9 @@
     label.text =@"测试一下的label";
     ////////////// 快快快快快快快快快快快快快快快快快快快快快快快快快快快
     //////////////
+    
+    [self initView];
+    
 }
 
 
@@ -43,7 +46,10 @@
 
 - (void)initView
 {
-    
+    UIButton *b = [UIButton buttonWithType:UIButtonTypeCustom];
+    b.frame = CGRectMake(200, 400, 200, 100);
+    b.backgroundColor = [UIColor greenColor];
+    [self.view addSubview:b];
 }
 
 @end
