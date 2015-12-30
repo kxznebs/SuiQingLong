@@ -1,5 +1,5 @@
 //
-//  ViewController3.h
+//  ViewController1.h
 //  定位
 //
 //  Created by xiaohuyangche on 15/12/30.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController3 : UIViewController
+@interface ViewController1 : UIViewController
 
 @end

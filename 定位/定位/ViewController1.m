@@ -1,18 +1,18 @@
 //
-//  ViewController3.m
+//  ViewController1.m
 //  定位
 //
 //  Created by xiaohuyangche on 15/12/30.
 //  Copyright © 2015年 寇希增. All rights reserved.
 //
 
-#import "ViewController3.h"
+#import "ViewController1.h"
 
-@interface ViewController3 ()
+@interface ViewController1 ()
 
 @end
 
-@implementation ViewController3
+@implementation ViewController1
 
 - (void)viewDidLoad {
     [super viewDidLoad];
