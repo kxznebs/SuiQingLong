@@ -30,7 +30,7 @@
     label.backgroundColor = [UIColor colorWithRed:0.604 green:1.000 blue:0.645 alpha:1.000];
     [self.view addSubview:label];
     label.text =@"测试一下的label";
-    
+    ////////////// 快快快快快快快快快快快快快快快快快快快快快快快快快快快
     
 }
 

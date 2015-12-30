@@ -21,7 +21,7 @@
     
     self.view.backgroundColor = [UIColor redColor];
     UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(100, 100, 100, 100)];
-    label.backgroundColor = [UIColor colorWithRed:0.604 green:1.000 blue:0.645 alpha:1.000];
+    label.backgroundColor = [UIColor colorWithRed:1.000 green:0.218 blue:0.849 alpha:1.000];
     [self.view addSubview:label];
     label.text =@"测试一下的label";
 }
