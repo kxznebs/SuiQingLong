@@ -1,18 +1,19 @@
 //
-//  SuiQingLongTests.m
-//  SuiQingLongTests
+//  __Tests.m
+//  定位Tests
 //
-//  Created by xiaohuyangche on 15/12/30.
-//
+//  Created by 邹鑫 on 15/7/13.
+//  Copyright (c) 2015年 寇希增. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface SuiQingLongTests : XCTestCase
+@interface __Tests : XCTestCase
 
 @end
 
-@implementation SuiQingLongTests
+@implementation __Tests
 
 - (void)setUp {
     [super setUp];
@@ -26,7 +27,7 @@
 
 - (void)testExample {
     // This is an example of a functional test case.
-    // Use XCTAssert and related functions to verify your tests produce the correct results.
+    XCTAssert(YES, @"Pass");
 }
 
 - (void)testPerformanceExample {

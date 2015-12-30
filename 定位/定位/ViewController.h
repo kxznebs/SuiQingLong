@@ -1,9 +1,9 @@
 //
 //  ViewController.h
-//  SuiQingLong
+//  定位
 //
-//  Created by xiaohuyangche on 15/12/30.
-//
+//  Created by 邹鑫 on 15/7/13.
+//  Copyright (c) 2015年 寇希增. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
