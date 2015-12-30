@@ -26,6 +26,12 @@
     UIBarButtonItem *rightBar = [[UIBarButtonItem alloc] initWithTitle:@"下一页" style:UIBarButtonItemStylePlain target:self action:@selector(abc)];
     self.navigationItem.rightBarButtonItem = rightBar;
     
+    UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(100, 100, 100, 100)];
+    label.backgroundColor = [UIColor redColor];
+    [self.view addSubview:label];
+    label.text =@"测试一下的label";
+    
+    
 }
 
 
