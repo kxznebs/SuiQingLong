@@ -31,7 +31,7 @@
     [self.view addSubview:label];
     label.text =@"测试一下的label";
     ////////////// 快快快快快快快快快快快快快快快快快快快快快快快快快快快
-    
+    //////////////
 }
 
 
@@ -41,9 +41,9 @@
     [self.navigationController pushViewController:p animated:YES];
 }
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+- (void)initView
+{
+    
 }
 
 @end
