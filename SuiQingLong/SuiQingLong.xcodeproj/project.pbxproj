@@ -15,7 +15,6 @@
 		49D80D7D1C338F9D007C906D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49D80D7B1C338F9D007C906D /* LaunchScreen.storyboard */; };
 		49D80D881C338F9E007C906D /* SuiQingLongTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 49D80D871C338F9E007C906D /* SuiQingLongTests.m */; };
 		49D80D931C338F9E007C906D /* SuiQingLongUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 49D80D921C338F9E007C906D /* SuiQingLongUITests.m */; };
-		49D80DA21C33C0CD007C906D /* PersonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 49D80DA11C33C0CD007C906D /* PersonViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,8 +51,6 @@
 		49D80D8E1C338F9E007C906D /* SuiQingLongUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SuiQingLongUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		49D80D921C338F9E007C906D /* SuiQingLongUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SuiQingLongUITests.m; sourceTree = "<group>"; };
 		49D80D941C338F9E007C906D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		49D80DA01C33C0CD007C906D /* PersonViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersonViewController.h; sourceTree = "<group>"; };
-		49D80DA11C33C0CD007C906D /* PersonViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersonViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,8 +105,6 @@
 				49D80D711C338F9D007C906D /* AppDelegate.m */,
 				49D80D731C338F9D007C906D /* ViewController.h */,
 				49D80D741C338F9D007C906D /* ViewController.m */,
-				49D80DA01C33C0CD007C906D /* PersonViewController.h */,
-				49D80DA11C33C0CD007C906D /* PersonViewController.m */,
 				49D80D761C338F9D007C906D /* Main.storyboard */,
 				49D80D791C338F9D007C906D /* Assets.xcassets */,
 				49D80D7B1C338F9D007C906D /* LaunchScreen.storyboard */,
@@ -280,7 +275,6 @@
 				49D80D751C338F9D007C906D /* ViewController.m in Sources */,
 				49D80D721C338F9D007C906D /* AppDelegate.m in Sources */,
 				49D80D6F1C338F9D007C906D /* main.m in Sources */,
-				49D80DA21C33C0CD007C906D /* PersonViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

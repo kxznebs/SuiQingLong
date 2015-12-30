@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "PersonViewController.h"
+
 
 
 
@@ -37,7 +37,7 @@
 
 - (void)abc
 {
-    PersonViewController *p = [[PersonViewController alloc] init];
+    ViewController *p = [[ViewController alloc] init];
     [self.navigationController pushViewController:p animated:YES];
 }
 
