@@ -1,28 +1,23 @@
 //
-//  ViewController1.m
+//  ViewController2.m
 //  定位
 //
 //  Created by xiaohuyangche on 15/12/30.
 //  Copyright © 2015年 寇希增. All rights reserved.
 //
 
-#import "ViewController1.h"
+#import "ViewController2.h"
 
-@interface ViewController1 ()
+@interface ViewController2 ()
 
 @end
 
-@implementation ViewController1
+@implementation ViewController2
 
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
 }
-
-
-
-//////////////zn
-
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
